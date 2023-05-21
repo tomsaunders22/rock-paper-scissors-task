@@ -1,0 +1,8 @@
+C:\Users\tom\source\repos\Rock-Paper-Scissors\bin\Debug\Rock-Paper-Scissors.exe.config
+C:\Users\tom\source\repos\Rock-Paper-Scissors\bin\Debug\Rock-Paper-Scissors.exe
+C:\Users\tom\source\repos\Rock-Paper-Scissors\bin\Debug\Rock-Paper-Scissors.pdb
+C:\Users\tom\source\repos\Rock-Paper-Scissors\obj\Debug\Rock-Paper-Scissors.csproj.AssemblyReference.cache
+C:\Users\tom\source\repos\Rock-Paper-Scissors\obj\Debug\Rock-Paper-Scissors.csproj.SuggestedBindingRedirects.cache
+C:\Users\tom\source\repos\Rock-Paper-Scissors\obj\Debug\Rock-Paper-Scissors.csproj.CoreCompileInputs.cache
+C:\Users\tom\source\repos\Rock-Paper-Scissors\obj\Debug\Rock-Paper-Scissors.exe
+C:\Users\tom\source\repos\Rock-Paper-Scissors\obj\Debug\Rock-Paper-Scissors.pdb
